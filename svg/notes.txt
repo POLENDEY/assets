@@ -1,1 +1,1 @@
-
+this folder contains svg file for website assets purposes only.
