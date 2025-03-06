@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920.2 399.65" style="enable-background:new 0 0 1920.2 399.65;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.6;clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st1{clip-path:url(#SVGID_2_);fill:url(#SVGID_4_);}
+	.st2{opacity:0.6;clip-path:url(#SVGID_2_);fill:url(#SVGID_5_);}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-5.13" y="-83.4" width="1930.36" height="483.04"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="583.0162" y1="597.9545" x2="583.0162" y2="-65.5359">
+			<stop  offset="0" style="stop-color:#F6FBFF"/>
+			<stop  offset="0.3497" style="stop-color:#D0D3D6"/>
+			<stop  offset="1" style="stop-color:#808080"/>
+		</linearGradient>
+		<path class="st0" d="M-52.97-20.32c0,0,192.49,200.29,585.27,275.73s694.52-13.01,694.52-13.01v213.3H-60.78L-52.97-20.32z"/>
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="949.7822" y1="562.3453" x2="949.7822" y2="89.2001">
+			<stop  offset="0" style="stop-color:#F6FBFF"/>
+			<stop  offset="0.3497" style="stop-color:#D0D3D6"/>
+			<stop  offset="1" style="stop-color:#808080"/>
+		</linearGradient>
+		<path class="st1" d="M-64.68,121.44c0,0,198.99,202.89,710.12,191.19c511.13-11.71,1147.12-257.52,1361.72-144.37V460.9H-107.6
+			L-64.68,121.44z"/>
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="956.4326" y1="802.9243" x2="956.4326" y2="-21.9079">
+			<stop  offset="0" style="stop-color:#F6FBFF"/>
+			<stop  offset="0.3497" style="stop-color:#D0D3D6"/>
+			<stop  offset="1" style="stop-color:#808080"/>
+		</linearGradient>
+		<path class="st2" d="M2007.16,442.69V115.93C1792.56-81.33,1156.58,347.19,645.44,367.6S-64.68,34.31-64.68,34.31L-94.3,442.69
+			H2007.16z"/>
+	</g>
+</g>
+</svg>
